@@ -1,0 +1,6 @@
+groupId: com.example.consumer
+artifactId: consumer-app
+version: 1.0.0
+mainClass: App
+dependencies:
+  - com.iexceed.stringutils:string-reverser:1.0.0

@@ -1,0 +1,35 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 0 16px;
+  color: #222;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+.card h3 {
+  margin: 0 0 4px;
+}
+
+.coords {
+  font-family: monospace;
+  font-size: 13px;
+  color: #666;
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 8px;
+  text-decoration: none;
+  color: #fff;
+  background: #2563eb;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+}

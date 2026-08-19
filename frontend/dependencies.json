@@ -1,0 +1,9 @@
+[
+  {
+    "groupId": "com.iexceed.stringutils",
+    "artifactId": "string-reverser",
+    "version": "1.0.0",
+    "description": "Reverses a string",
+    "jarPath": "repo/com/iexceed/stringutils/string-reverser/1.0.0/string-reverser-1.0.0.jar"
+  }
+]
